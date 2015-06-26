@@ -8,8 +8,6 @@
 
 #import "AppDelegate.h"
 
-// iOS is the best!
-
 @interface AppDelegate ()
 
 @end
